@@ -1,4 +1,43 @@
 # Geefdse-Test-Booth01
+<title>GeefdseBothChat.com</title>
+<a href="https://gamma.app/docs/...">Home</a>
+<a href="https://geefds ebothchat.com">Home</a>
+<meta property="og:url" content="https://geefds ebothchat.com" />
+<meta property="og:site_name" content="GeefdseBothChat" />
+
+<a href="/#home">Home</a>
+<link rel="canonical" href="https://geefds ebothchat.com" />
+<footer>
+  <p>© 2026 GeefdseBothChat.com</p>
+</footer>
+<script>
+  const isAdmin = prompt("Enter admin password:") === "YourSecurePassword";
+
+  if(isAdmin) {
+    document.querySelectorAll("[data-editable]").forEach(el => {
+      el.contentEditable = true;
+      el.style.border = "1px dashed #0f0"; // visual edit indicator
+    });
+  }
+</script>
+
+<link rel="canonical" href="https://geefds ebothchat.com" />
+
+<h1 data-editable>GeefdseBothChat</h1>
+<h2 data-editable>Secure AI-Powered Creative Hub</h2>
+<p data-editable>Engage, create, and innovate privately with AI.</p>
+
+<section id="chat">
+  <h2>AI Agent Chat Booth</h2>
+  <iframe
+    src="YOUR_AI_AGENT_URL_HERE"
+    width="100%"
+    height="500"
+    title="GeefdseBothChat AI Chat">
+  </iframe>
+</section>
+
+
 
 <!DOCTYPE html> https://gamma.app/docs/GeefdseBothChat-Your-Secure-AI-Powered-Creative-Hub-oraiexzpophttwu
 
@@ -10,7 +49,8 @@
 </head>
 
 <body>
-
+<title>GeefdseBothChat.com</title>
+  
 <!-- HEADER -->
 <header>
   <h1 id="site-name">GeefdseBothChat</h1>
